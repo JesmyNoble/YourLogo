@@ -1,0 +1,6 @@
+[11.04.2019] [15:37:49] INFO [main] com.yourlogo.base.Base (HomePage.java:44) - In HomePage
+[11.04.2019] [15:37:51] INFO [main] com.yourlogo.base.Base (SummerDressPage.java:42) - In SummerDress Page
+[11.04.2019] [15:37:56] INFO [main] com.yourlogo.base.Base (ShoppingCartPage.java:35) - In Shopping Cart Page
+[11.04.2019] [15:37:58] INFO [main] com.yourlogo.base.Base (AuthenticationPage.java:66) - In Authentication Page
+[11.04.2019] [15:38:03] INFO [main] com.yourlogo.base.Base (AddressesPage.java:24) - In Address Page
+[11.04.2019] [15:38:06] INFO [main] com.yourlogo.base.Base (PaymentPage.java:34) - In Payment Page
